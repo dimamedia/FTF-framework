@@ -18,6 +18,7 @@
   - [view]                     // views for each page or application templates
     - 404.php                  // 404 error page content
     - 500.php                  // 500 error page content
+    - analytictracking.php     // Google Analytic
     - api.php                  // Api page content
     - doc.php                  // Documentation page content
     - footer.php               // Footer template and the ending of the whole site
