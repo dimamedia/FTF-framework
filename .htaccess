@@ -1,0 +1,8 @@
+ErrorDocument 404 /error_redirect.php?404
+ErrorDocument 500 /error_redirect.php?500
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)\?*$ index.php/$1 [QSA,L]
