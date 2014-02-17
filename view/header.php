@@ -12,7 +12,11 @@ print <<< html
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="$title">
+<<<<<<< HEAD
     <link rel="shortcut icon" href="/ftf.png">
+=======
+    <link rel="shortcut icon" href="/favicon.png">
+>>>>>>> 6b480df8e126fe8c8c4ca0daf2ceea440215cc56
 
     <title>$title</title>
 
