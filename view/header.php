@@ -12,7 +12,7 @@ print <<< html
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="$title">
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="/ftf.png">
 
     <title>$title</title>
 
@@ -46,7 +46,7 @@ print <<< html
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="/">FTF-framework</a>
+				<a class="navbar-brand" href="/"><img src="ftf.png" style="width: 32px; height: auto; vertical-align: center;"> -framework</a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
