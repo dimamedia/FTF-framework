@@ -5,11 +5,11 @@ Fuck The Framework -framework
 
 Read more on the website: http://ftframeworks.com
 
-Version 2014.2.17
+**Version 2014.2.17**
 
 
-What's new?
+###What's new?###
 
-= 2014.2.17
+**== 2014.2.17 ==**
 
-  Created whole project.
+Created whole project.
