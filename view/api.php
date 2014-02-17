@@ -1,6 +1,3 @@
-<?php
-
-print <<< html
       <div class="row marketing">
         <div class="col-lg-12">
           <h3>Surprise, no API here!</h3>
@@ -25,7 +22,3 @@ print <<< html
 
         </div>
       </div>
-
-html;
-
-?>
