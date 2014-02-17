@@ -18,7 +18,8 @@ print <<< html
         <div class="col-sm-6">
           <h4><span class="glyphicon glyphicon glyphicon-gift"></span> What's included?</h4>
           <p>Simple url routing for SEO friendly urls.<br />
-		  Demo with Bootstrap Narrow jumbotron theme.</p>
+		  Demo with Bootstrap Narrow jumbotron theme.<br />
+		  Google Analytic snippet.</p>
 
           <h4><span class="glyphicon glyphicon glyphicon-ok-sign"></span> Requirements</h4>
           <p>PHP 5.x<br />Apache2.x<br /><i>mod_rewrite</i> module enabled</p>
