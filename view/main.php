@@ -10,10 +10,10 @@ print <<< html
       <div class="row marketing">
         <div class="col-sm-6">
           <h4><span class="glyphicon glyphicon glyphicon-question-sign"></span> Wtf?</h4>
-          <p>Yeah! This is actually php framework without a real framework. Just a basic scheme to start from. You can recreate this to whatever suits you.</p>
+          <p>Yeah! This is actually a php framework without a real framework. Just a basic scheme to start from. You can repurpose for whatever suits you.</p>
 
           <h4><span class="glyphicon glyphicon glyphicon-user"></span> For who?</h4>
-          <p>For developers who got enough with frameworks and want to keep all stuff in their hands, in their way.</p>
+          <p>For developers who have had enough with frameworks and want to keep all stuff in their hands, in their way.</p>
         </div>
         <div class="col-sm-6">
           <h4><span class="glyphicon glyphicon glyphicon-gift"></span> What's included?</h4>
